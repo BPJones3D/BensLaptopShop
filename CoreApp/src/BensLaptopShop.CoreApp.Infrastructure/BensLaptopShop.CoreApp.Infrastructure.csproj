@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BensLaptopShop.CoreApp.Domain\BensLaptopShop.CoreApp.Domain.csproj" />
+    <ProjectReference Include="..\BensLaptopShop.CoreApp.Models\BensLaptopShop.CoreApp.Models.csproj" />
+  </ItemGroup>
+
 </Project>

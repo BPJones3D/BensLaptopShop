@@ -14,4 +14,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CoreApp\src\BensLaptopShop.CoreApp.Api\BensLaptopShop.CoreApp.Api.csproj" />
+  </ItemGroup>
+
 </Project>
